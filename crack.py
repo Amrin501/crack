@@ -288,7 +288,7 @@ def login_lagi334():
 							tokenew = open(".token.txt","w").write(access_token)
 							cook= open(".cok.txt","w").write(your_cookies)
 							os.system("xdg-open https://chat.whatsapp.com/InwlvDU3t6d9FShXwfH2MV")
-							print("\n [+] Login Berhasil | python BrayennnFB.py");followdong()
+							print("\n [+] Login Berhasil | python crack.py");followdong()
 			except Exception as e:
 				print(" [+] Cookies Mokad Kontol")
 				os.system('rm -rf .token.txt && rm -rf .cok.txt')
